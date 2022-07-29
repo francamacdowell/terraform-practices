@@ -1,2 +1,1 @@
 # terraform-practices
-# terraform-practices
